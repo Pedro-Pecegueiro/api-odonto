@@ -1,6 +1,6 @@
 # API de Agendamento Odontológico
 
-Desenvolvi esta API para organizar o cadastro e a consulta de dentistas. Neste projeto, trabalhei com autenticação por token, banco de dados MySQL e migrations para preparar a aplicação para execução local e publicação em nuvem.
+API para organizar o cadastro e a consulta de dentistas. Neste projeto, trabalhei com autenticação por token, banco de dados MySQL e migrations para preparar a aplicação para execução local e publicação em nuvem.
 
 ## O que a API oferece
 
