@@ -98,7 +98,9 @@ O Render precisa receber as mesmas quatro variáveis separadamente no ambiente d
 
 O Render fornece a variável `PORT`; a aplicação escuta nessa porta e no endereço `0.0.0.0`.
 
-**URL pública da API:** a informar após o primeiro deploy.
+**URL pública da API:** [https://api-odonto-eice.onrender.com](https://api-odonto-eice.onrender.com)
+
+**Health check:** [https://api-odonto-eice.onrender.com/actuator/health](https://api-odonto-eice.onrender.com/actuator/health)
 
 ## Rotas principais
 
